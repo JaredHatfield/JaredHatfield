@@ -11,3 +11,4 @@ However, I try to stay well rounded though always digging into the latest techno
 
  - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/jaredhatfield/): Connect with me professionally
  - 🗞️ [Medium](https://medium.com/@jaredhatfield): Technical articles I've written on a variety of topics
+ - 🛠️ [StackOverflow](https://stackoverflow.com/users/788433/jaredhatfield): Answers to technical questions
